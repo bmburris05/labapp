@@ -1,7 +1,6 @@
 import './App.css';
 import Navbar from './Navbar.js';
 import Card from './Card.js';
-import Modal from './Modal.js';
 
 function App() {
   return (
